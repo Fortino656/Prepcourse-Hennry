@@ -1,2 +1,2 @@
-# Prepcourse-Hennry
-Estes es un repocirotio del modulo 2 del precurse
+luis segovia 
+este proyecto es una preueba como crear un repocitorio
